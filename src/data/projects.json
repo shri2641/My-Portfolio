@@ -1,0 +1,65 @@
+[
+  {
+    "id": 7,
+    "title": "Uni Cafes – Campus Dining",
+    "description": "Delicious campus flavors at your fingertips. Discover the best campus flavors from quick bites to healthy delights, bringing the best cafes directly to your fingertips.",
+    "image": "/unicafe.png",
+    "tags": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "",
+      "Microservices",
+      "JWT",
+      "Module Federation"
+    ],
+    "category": "fullstack",
+    "githubUrl": "https://github.com/shri2641/Uniii-Cafes-New-Version-",
+    "demoUrl": "https://github.com/shri2641/Uniii-Cafes-New-Version-",
+    "period": "March 2026 – Present",
+    "role": "Team Leader & Fullstack Developer",
+    "teamSize": 4,
+    "featured": true
+  },
+  {
+    "id": 8,
+    "title": "SupplySetu - Streamlining Ecosystems",
+    "description": "The smartest way to connect vendors and suppliers. Discover reliable partners, manage your inventory efficiently, and grow your business.",
+    "image": "/supplysetu.png",
+    "tags": [
+      "Next.js",
+      "React",
+      "TailwindCSS",
+      "Node.js",
+      "MongoDB"
+    ],
+    "category": "fullstack",
+    "githubUrl": "https://github.com/shri2641/SupplySetu",
+    "demoUrl": "https://supplysetu.vercel.app/",
+    "period": "Jan 2026 - Present",
+    "role": "Fullstack Developer",
+    "teamSize": 1,
+    "featured": true
+  },
+  {
+    "id": 1,
+    "title": "Smart Attendance - NFC Tap Station",
+    "description": "A smart attendance system allowing students to tap their NFC ID cards to mark attendance automatically. Includes a dashboard, real-time simulation panel, and robust teacher/student management.",
+    "image": "/smartattendance.png",
+    "tags": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "NFC"
+    ],
+    "category": "fullstack",
+    "githubUrl": "https://github.com/shri2641/Smart-Attendance-System",
+    "demoUrl": "https://smart-attendance.vercel.app/",
+    "period": "Nov 2025 - Dec 2025",
+    "role": "Fullstack Developer",
+    "teamSize": 1,
+    "featured": true
+  }
+]
