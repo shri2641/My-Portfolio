@@ -26,7 +26,7 @@
 
 <!-- Quick Links -->
 <p>
-  <a href="https://nguyentranshrishti.id.vn"><strong>🌐 Live Demo</strong></a>
+  <a href="https://my-portfolio-o3ls.vercel.app"><strong>🌐 Live Demo</strong></a>
   &nbsp;•&nbsp;
   <a href="#-features"><strong>✨ Features</strong></a>
   &nbsp;•&nbsp;
@@ -408,7 +408,7 @@ copies of the Software...
   <a href="mailto:nguyentranshrishti@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://nguyentranshrishti.id.vn">
+  <a href="https://my-portfolio-o3ls.vercel.app">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
