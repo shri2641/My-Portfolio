@@ -17,29 +17,7 @@
   <a href="https://www.framer.com/motion/"><img src="https://img.shields.io/badge/Framer_Motion-12.9-FF0080?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" /></a>
 </p>
 
-<p>
-  <img src="https://img.shields.io/github/stars/shrishtiverma/Shrishti-Portfolio?style=social" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/shrishtiverma/Shrishti-Portfolio?style=social" alt="Forks" />
-  <img src="https://img.shields.io/github/license/shrishtiverma/Shrishti-Portfolio?color=blue" alt="License" />
-  <img src="https://img.shields.io/github/last-commit/shrishtiverma/Shrishti-Portfolio?color=green" alt="Last Commit" />
-</p>
 
-<!-- Quick Links -->
-<p>
-  <a href="https://my-portfolio-o3ls.vercel.app"><strong>🌐 Live Demo</strong></a>
-  &nbsp;•&nbsp;
-  <a href="#-features"><strong>✨ Features</strong></a>
-  &nbsp;•&nbsp;
-  <a href="#-tech-stack"><strong>🛠️ Tech Stack</strong></a>
-  &nbsp;•&nbsp;
-  <a href="#-getting-started"><strong>🚀 Get Started</strong></a>
-</p>
-
-<!-- Preview Image -->
-<br />
-<img src="public/portfolio.PNG" alt="Portfolio Preview" width="90%" style="border-radius: 12px; box-shadow: 0 20px 40px rgba(0,0,0,0.3);" />
-
-</div>
 
 <br />
 
@@ -197,23 +175,7 @@ Welcome to my **Personal Developer Portfolio** — a meticulously crafted websit
 
 ---
 
-## 📸 Screenshots
 
-<div align="center">
-
-### 🏠 Home Page
-<img src="public/screenshots/home.png" alt="Home Page" width="80%" style="border-radius: 8px; margin: 10px 0;" />
-
-### 👨‍💻 About Section
-<img src="public/screenshots/about.png" alt="About Section" width="80%" style="border-radius: 8px; margin: 10px 0;" />
-
-### 🎨 Projects Gallery
-<img src="public/screenshots/projects.png" alt="Projects" width="80%" style="border-radius: 8px; margin: 10px 0;" />
-
-### 📱 Mobile Responsive
-<img src="public/screenshots/mobile.png" alt="Mobile View" width="40%" style="border-radius: 8px; margin: 10px 0;" />
-
-</div>
 
 ---
 
@@ -333,11 +295,7 @@ http://localhost:5173
 
 ---
 
-## 🌐 Deployment
 
-This portfolio is configured for seamless deployment on **Vercel**:
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shrishtiverma/Shrishti-Portfolio)
 
 ### Manual Deployment
 
